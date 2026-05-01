@@ -1,3 +1,11 @@
+<h2 align="center">Power Systems · EV · Embedded Control · Drone Systems</h2>
+
+<p align="center">
+<i>“Confidence is the byproduct of disciplined execution.”</i>
+</p>
+
+<br>
+
 <table>
 <tr>
 
@@ -7,22 +15,16 @@
 
 <td width="62%" valign="top">
 
-<h2>Power Systems · EV · Embedded Control · Drone Systems</h2>
-
-<i>“Confidence is the byproduct of disciplined execution.”</i>
-
-<br><br>
-
 <p>
-I am a researcher and an engineer with a strong foundation in power systems, electric vehicles, and embedded control.  
+• I am a researcher and an engineer with a strong foundation in power systems, electric vehicles, and embedded control.
 </p>
 
 <p>
-Currently working on real-time system design, focusing on reliable, efficient, and scalable engineering solutions integrating simulation and hardware implementation.  
+• Currently working on real-time system design, focusing on reliable, efficient, and scalable engineering solutions integrating simulation and hardware implementation.
 </p>
 
 <p>
-I focus on building practical energy systems that bridge theoretical models with real-world applications.  
+• I focus on building practical energy systems that bridge theoretical models with real-world applications.
 </p>
 
 </td>
