@@ -1,12 +1,28 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="350"/>
-</p>
+<table>
+<tr>
+<td width="40%">
 
-# Hi, I'm Sumit Thingbaijam 👋
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="250"/>
+
+</td>
+
+<td width="60%">
+
+<h2>Hi, I'm Sumit Thingbaijam 👋</h2>
 
 🎓 M.Tech in Power & Energy Systems (REVA University)  
 ⚡ Focus: EV Powertrains, Motor Control, Smart Grids  
 📍 Bengaluru, India  
+
+<br>
+
+- ⚡ Electrical Engineer working on EV systems  
+- 🔬 Interested in simulation + hardware integration  
+- 🧠 Focus on power electronics and embedded control  
+
+</td>
+</tr>
+</table>
 
 ---
 
