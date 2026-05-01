@@ -10,7 +10,7 @@
 <tr>
 
 <td width="38%" valign="middle" style="padding-right: 15px;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="250" style="border-radius:10px;"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="220" style="border-radius:10px;"/>
 </td>
 
 <td width="62%" valign="top">
