@@ -8,12 +8,17 @@
 
 <td width="60%">
 
-<h2>Hi, I'm Sumit Thingbaijam 👋</h2>
+<h2>Power Systems · EV · Embedded Control · Drone Systems</h2>
 
-🎓 M.Tech in Power & Energy Systems (REVA University)  
-⚡ Focus: EV Powertrains, Motor Control, Smart Grids  
-📍 Bengaluru, India  
+<i>"Confidence is the byproduct of disciplined execution."</i>
 
+<br><br>
+
+- ⚡ M.Tech in Power & Energy Systems (REVA University)  
+- 🔬 Focus: Electric Vehicles, Motor Control, Smart Grids  
+- 🚁 Interested in drone systems and embedded applications  
+- 🧠 Strong in simulation → real-world implementation  
+- 📍 Bengaluru, India  
 <br>
 
 - ⚡ Electrical Engineer working on EV systems  
