@@ -1,29 +1,29 @@
 <table>
 <tr>
 
-<td width="40%" valign="top" style="padding-right: 15px;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="260"/>
+<td width="38%" valign="top" style="padding-right: 15px;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="250" style="border-radius:10px;"/>
 </td>
 
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 <h2>Power Systems · EV · Embedded Control · Drone Systems</h2>
 
 <i>“Confidence is the byproduct of disciplined execution.”</i>
 
-<ul>
-<li>⚡ M.Tech in Power & Energy Systems (REVA University)</li>
-<li>🔬 Focus: Electric Vehicles, Motor Control, Smart Grids</li>
-<li>🚁 Interested in drone systems and embedded applications</li>
-<li>🧠 Strong in simulation → real-world implementation</li>
-<li>📍 Bengaluru, India</li>
-</ul>
+<br><br>
 
-<ul>
-<li>⚡ Electrical Engineer working on EV systems</li>
-<li>🔬 Interested in simulation + hardware integration</li>
-<li>🧠 Focus on power electronics and embedded control</li>
-</ul>
+<p>
+I am a researcher and an engineer with a strong foundation in power systems, electric vehicles, and embedded control.  
+</p>
+
+<p>
+Currently working on real-time system design, focusing on reliable, efficient, and scalable engineering solutions integrating simulation and hardware implementation.  
+</p>
+
+<p>
+I focus on building practical energy systems that bridge theoretical models with real-world applications.  
+</p>
 
 </td>
 
