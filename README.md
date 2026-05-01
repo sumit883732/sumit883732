@@ -8,8 +8,10 @@
 <table>
 <tr>
 
-<td width="260px" valign="middle" style="padding-right: 8px;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" width="220" style="border-radius:10px;"/>
+<td width="220px" valign="middle" style="padding-right: 6px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prdnJxbGw0NnhzNjVjNmo5ejZlNmV5cnA2MW5rZXcyMWNpNHptbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yv1ggi3Cbase05a8iS/giphy.gif" 
+       width="100%" 
+       style="border-radius:10px; display:block;"/>
 </td>
 
 <td valign="middle">
