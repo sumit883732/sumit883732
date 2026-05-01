@@ -10,7 +10,7 @@
 
 <h2>Power Systems · EV · Embedded Control · Drone Systems</h2>
 
-<i>"Confidence is the byproduct of disciplined execution."</i>
+<i>“Confidence is the byproduct of disciplined execution.”</i>
 
 <br><br>
 
@@ -19,6 +19,7 @@
 - 🚁 Interested in drone systems and embedded applications  
 - 🧠 Strong in simulation → real-world implementation  
 - 📍 Bengaluru, India  
+
 <br>
 
 - ⚡ Electrical Engineer working on EV systems  
@@ -28,6 +29,41 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠 Toolbox
+
+### ⚡ Electrical & Simulation
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=Mathworks&logoColor=green)](https://www.mathworks.com)
+[![Simulink](https://img.shields.io/badge/Simulink-black?style=for-the-badge&logoColor=green)](https://www.mathworks.com/products/simulink.html)
+
+---
+
+### 🔌 Embedded & Hardware
+[![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=green)](https://www.arduino.cc)
+[![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logoColor=green)](https://www.espressif.com)
+[![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logoColor=green)](https://www.st.com)
+
+---
+
+### 💻 Programming & Software
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green)](https://www.python.org)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-black?style=for-the-badge&logoColor=green)](https://www.autodesk.com)
+[![ANSYS](https://img.shields.io/badge/ANSYS-black?style=for-the-badge&logoColor=green)](https://www.ansys.com)
+
+---
+
+### 🌐 IoT & Communication
+[![MQTT](https://img.shields.io/badge/MQTT-black?style=for-the-badge&logoColor=green)](https://mqtt.org)
+[![GSM](https://img.shields.io/badge/GSM-black?style=for-the-badge&logoColor=green)](https://www.3gpp.org)
+
+---
+
+### 🧰 Tools & Platforms
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=green)](https://github.com)
+[![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logoColor=green)](https://www.latex-project.org)
+[![Mendeley](https://img.shields.io/badge/Mendeley-black?style=for-the-badge&logoColor=green)](https://www.mendeley.com)
 
 ---
 
@@ -46,46 +82,13 @@
 
 ---
 
-## 🛠 Technical Skills
-
-### ⚡ Electrical & Power Systems
-- Electrical Machines, Power Electronics, Power Systems  
-- Inverter Design, Motor Control (FOC, V/f, PID)  
-- Battery Systems & Thermal Management  
-
-### 🔌 Embedded Systems & Hardware
-- Arduino, ESP32, STM32 (familiar)  
-- Raspberry Pi, Jetson Nano  
-- Sensors, PWM Control, Circuit Design  
-- PCB Design (Basic), Soldering & Prototyping  
-
-### 💻 Software & Simulation
-- MATLAB, Simulink  
-- Python (Data Analysis, ML basics)  
-- AutoCAD Electrical, SolidWorks, ANSYS  
-- Arduino IDE  
-
-### 🌐 IoT & Communication
-- MQTT, GSM/LTE Modules  
-- Smart Systems & Automation  
-
----
-
-## 🧰 Tools & Platforms
-- GitHub  
-- LaTeX (IEEE paper writing)  
-- MS Office  
-- Mendeley  
-
----
-
 ## 🏭 Experience
 
-### 🔹 CloudZ Geomatics Projects Pvt. Ltd. :contentReference[oaicite:0]{index=0}  
+### 🔹 CloudZ Geomatics Projects Pvt. Ltd.
 - Drone-based surveying & GIS applications  
 - Geospatial data processing  
 
-### 🔹 MSPCL Substation Training :contentReference[oaicite:1]{index=1}  
+### 🔹 MSPCL Substation Training
 - 33/11 kV substation operation  
 - Transformers, switchgear, SCADA basics  
 
